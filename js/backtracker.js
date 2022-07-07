@@ -42,7 +42,7 @@ export default class Backtracker {
       var X = 0
       var board = new Board();
       var currentCell, firstCell, guess = 1, attemptStack = [];
-      var defaultFont;
+      var defaultFont = p5.loadFont("assets/fonts/default.ttf");
       
       p5.preload = function () { defaultFont = p5.loadFont("assets/fonts/default.ttf"); }
       
