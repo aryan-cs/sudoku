@@ -2,7 +2,7 @@
 var canvas;
 const SCALE = 1.6;
 const VARIABLE_SCALING = false;
-const WIDTH = 540, HEIGHT = 540;
+const WIDTH = 450, HEIGHT = 450;
 
 function limit (value, min, max) { return Math.min(Math.max(value, min), max); }
 
