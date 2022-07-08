@@ -22,6 +22,7 @@ html, body {
   color: var(--accent-2);
   text-align: center;
   height: auto;
+  font-size: 1.2em;
 
 }
 
@@ -38,9 +39,9 @@ main {
 
 canvas {
 
-  margin-top: 5%;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-top: 7%;
+  margin-left: 40px;
+  margin-right: 40px;
   border-radius: 10px;
 
 }
