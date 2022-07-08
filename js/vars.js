@@ -14,7 +14,7 @@ window.addEventListener("resize", function (ignored) {
 
 // site
 var title = "sudoku solver";
-var version = "version 1.0.0";
+var version = "version 1.1.4";
 
 window.onload = function () { document.title = title; document.getElementById("title").innerHTML = title + "  <span style=\"font-size: 30px;\"> " + version + "<\span>"; }
 
